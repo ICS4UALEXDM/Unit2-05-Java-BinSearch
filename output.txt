@@ -1,0 +1,10 @@
+The first time we came across 8 is at index 23
+The first time we came across 9 is at index 17
+ERROR: 21 does not exist in the line
+ERROR: 526 does not exist in the line
+The first time we came across 3 is at index 2
+The first time we came across 65 is at index 20
+The first time we came across 54 is at index 18
+The first time we came across 521 is at index 22
+The first time we came across 8 is at index 17
+ERROR: 886 does not exist in the line
